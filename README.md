@@ -3,12 +3,8 @@
 <html>
     <head>
          <meta charset="utf-8">
-        <title>LaVeSpa.html</title>
-        <style>
-            #title {
-                font-family:sans-serif;
-                }
-        </style>
+        <title></title>
+        
     </head> 
     <body>
     <h1 id="title">LaVé Spa</h1>                       
