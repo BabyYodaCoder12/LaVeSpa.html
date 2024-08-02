@@ -4,6 +4,11 @@
     <head>
         <title>LaVeSpa.html</title>
         <meta charset="utf-8">
+        <style>
+            h1{
+                font-family:sans-serif;
+                }
+        </style>
     </head>
     <body>
     <h1>LaVé Spa</h1>
