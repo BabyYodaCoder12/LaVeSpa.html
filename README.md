@@ -12,7 +12,7 @@
     </head> 
     <body>
     <h1 id="title">LaVé Spa</h1>                       
-    <img src="https://th.bing.com/th/id/OIP.zJz2l1qCqe5KKN5E7hlsmQAAAA?rs=1&pid=ImgDetMain" alt="A picture of a relaxing spa">
+    <img src="[https://th.bing.com/th/id/OIP.zJz2l1qCqe5KKN5E7hlsmQAAAA?rs=1&pid=ImgDetMain" alt="A picture of a relaxing spa](https://th.bing.com/th/id/OIP.paTyskLc0n39-rYBv54vJwHaE7?rs=1&pid=ImgDetMain)">
     <h1>At LaVé, we whisk your worries away.</h1>
     <h2>Services:</h2>
     <h1></h1>
