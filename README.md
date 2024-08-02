@@ -19,6 +19,6 @@
     <h3> Special Treatments</h3>
     <p><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Facial Treatment</a>----------<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Deluxe Treament</a>----------<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">LaVé Treatment</a></p>
     <h3>Single Treatments</h3>
-    <p>Face Massage----------Face Mask----------Hand Massage</p>    
+    <p><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Face Massage</a>----------<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Face Mask</a>----------<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Hand Massage</a></p>    
     </body>
 </html>
