@@ -6,7 +6,7 @@
         <title>LaVeSpa.html</title>
         <style>
             #title {
-                font-family:serif;
+                font-family:sans-serif;
                 }
         </style>
     </head> 
@@ -18,5 +18,7 @@
     <h1></h1>
     <h3> Special Treatments</h3>
     <p><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Facial Treatment</a>----------<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Deluxe Treament</a>----------<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">LaVé Treatment</a></p>
+    <h3>Single Treatments</h3>
+    <p>Face Massage----------Face Mask----------Hand Massage</p>    
     </body>
 </html>
