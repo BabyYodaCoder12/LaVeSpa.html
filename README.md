@@ -22,5 +22,8 @@
     <h3>Single Treatments</h3>
     <h4>Face Massage----------Face Mask----------Hand Massage</h4> 
         <h3>To schedule an appointment, email us at vedamjhaveri@gmail.com, or at lilamjhaveri@gmail.com</h3>
+        <h1></h1>
+        <h1></h1>
+        <p>This website was made by Ravi Magge at ravivmagge@gmail.com</p>
     </body>
 </html>
