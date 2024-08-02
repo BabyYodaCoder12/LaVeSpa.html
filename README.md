@@ -18,7 +18,7 @@
     <h1></h1>
     <h3> Special Treatments</h3>
     <h4>Facial Treatment----------Deluxe Treament----------LaVé Treatment</h4>
-    <p>A relaxing facial----------Includes a 15 minute-----Includes a 15 minute massage, a hot towel, a manicure, and a pedicure.</p>
+    <p>Includes a face ----------Includes a 15 minute-----Includes a 15 minute massage, a hot towel, a manicure, and a pedicure.<br>mask, ice rolling, and a ten minute massage.</p>
     <h3>Single Treatments</h3>
     <h4>Face Massage----------Face Mask----------Hand Massage</h4> 
         <h3>To schedule an appointment, email vedamjhaveri@gmail.com</h3>
