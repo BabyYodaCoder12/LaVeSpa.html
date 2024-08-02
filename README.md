@@ -7,6 +7,6 @@
     </head>
     <body>
     <h1>LaVé Spa</h1>
-    <img href="https://th.bing.com/th/id/OIP.zJz2l1qCqe5KKN5E7hlsmQAAAA?rs=1&pid=ImgDetMain">   
+    <img src="https://th.bing.com/th/id/OIP.zJz2l1qCqe5KKN5E7hlsmQAAAA?rs=1&pid=ImgDetMain" alt="A picture of a relaxing spa">   
     </body>
 </html>
