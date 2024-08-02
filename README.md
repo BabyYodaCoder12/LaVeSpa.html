@@ -11,7 +11,8 @@
         </style>
     </head> 
     <body>
-    <h1 id="title">LaVé Spa</h1>
+    <h1 id="title">LaVé Spa</h1
+    <p> Our Services:</p>                          
     <img src="https://th.bing.com/th/id/OIP.zJz2l1qCqe5KKN5E7hlsmQAAAA?rs=1&pid=ImgDetMain" alt="A picture of a relaxing spa">   
     </body>
 </html>
