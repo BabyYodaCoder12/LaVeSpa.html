@@ -17,6 +17,6 @@
     <h2>Services:</h2>
     <h1></h1>
     <h3> Special Treatments</h3>
-    <p><a href="?">Facial Treatment</a>----------Deluxe Treament----------LaVé Treatment</p>
+    <p><a href="?">Facial Treatment</a>----------<a href="?">Deluxe Treament</a>----------<a href="?">LaVé Treatment</a></p>
     </body>
 </html>
